@@ -71,8 +71,11 @@ function MemoryLane({ onRestart }) {
             }}
           >
             <div className="memory-photo">
-              📷
-            </div>
+  <img
+    src="/memory1.jpg"
+    alt="A special memory of Raju and Koushalya"
+  />
+</div>
 
             <h2>
               One of my favorite memories ❤️
@@ -91,8 +94,11 @@ function MemoryLane({ onRestart }) {
             }}
           >
             <div className="memory-photo">
-              💕
-            </div>
+  <img
+    src="/memory2.jpg"
+    alt="A silly moment between Raju and Koushalya"
+  />
+</div>
 
             <h2>
               That silly moment 😂
@@ -111,8 +117,11 @@ function MemoryLane({ onRestart }) {
             }}
           >
             <div className="memory-photo">
-              🌹
-            </div>
+  <img
+    src="/memory3.jpg"
+    alt="A future memory of Raju and Koushalya"
+  />
+</div>
 
             <h2>
               And there's more to come...
