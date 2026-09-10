@@ -82,8 +82,8 @@ function MemoryLane({ onRestart }) {
             </h2>
 
             <p>
-              Add one of our favorite photos here
-              and write a little memory about it.
+              one of our favorite photos.
+              Forever♾️.
             </p>
           </motion.div>
 
